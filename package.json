@@ -1,0 +1,13 @@
+{
+  "name": "api-image-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "mongodb": "^2.2.16",
+    "request": "^2.79.0"
+  }
+}
